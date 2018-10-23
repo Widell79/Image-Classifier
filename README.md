@@ -7,7 +7,7 @@ We'll be using [this](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.htm
 ## Prerequisites
 The Code is written in Python 3.6.6
 
-Packages that are required are: [Numpy](https://http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/) and [Pytorch](https://pytorch.org/).
+Packages that are required are: [Numpy](https://http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [MatplotLib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) and [Pytorch](https://pytorch.org/).
 
 ## To view Jupyter Notebook
 Install [Jupyter](https://jupyter.org/) or [Anaconda](https://www.anaconda.com/)
