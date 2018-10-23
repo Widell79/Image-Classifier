@@ -1,5 +1,5 @@
 # Image-Classifier
-Project code for Udacity's AI Programming with Python Nanodegree program
+Project code for **Udacity's AI Programming with Python Nanodegree program**
 
 Project code to train an image classifier to recognize different species of flowers.
 We'll be using [this](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) dataset of 102 flower categories. 
